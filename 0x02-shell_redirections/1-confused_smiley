@@ -1,2 +1,2 @@
 #!/gin/bash
-cat "\U1F615"
+echo \"\(Ôo)\'
