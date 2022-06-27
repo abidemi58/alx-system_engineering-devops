@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -exec bash -c 'if [ `cat "{}" |wc -w` -eq 0 ]; then echo "file - {}";fi' \;
+find. -empty -printf "%f\n"
