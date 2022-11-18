@@ -8,4 +8,5 @@ Repository containing all bash script tasks and other projects:
 * 0x05-processes_and_signals
 * 0x06-regular_expressions
 * 0x07. Networking basics #0
+* 0x08. Networking basics #1
 
