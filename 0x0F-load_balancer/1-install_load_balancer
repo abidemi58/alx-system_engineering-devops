@@ -14,7 +14,7 @@ frontend  abidemi-frontend
         bind *:80
         mode http
         default_backend abidemi-backend
-backend ehoneah-backend
+backend abidemibackend
         balance roundrobin
         server 69739-web-01 100.25.161.207 check
         server 69739-web-02 35.174.211.195 check

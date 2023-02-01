@@ -15,3 +15,5 @@ Repository containing all bash script tasks and other projects:
 * 0x0D. Web stack debugging #0
 * 0x0E. Web stack debuggingg #1
 * 0x0F. Load balancer
+* 0x10. HTTPS SSL
+* 0x13. Firewall
