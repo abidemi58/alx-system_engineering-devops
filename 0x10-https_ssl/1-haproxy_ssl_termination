@@ -41,5 +41,5 @@ frontend web-frontend
 
 backend web-backend
 	balance roundrobin
-        server 83020-web-01 100.25.161.207 check
-        server 59637-web-02 18.234.249.72 check
+        server 69739-web-01 100.25.161.207 check
+        server 69739-web-02 35.174.211.195 check
