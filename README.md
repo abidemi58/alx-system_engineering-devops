@@ -22,5 +22,6 @@ Repository containing all bash script tasks and other projects:
 * 0x15. API
 * 0x16. API advanced
 * 0x17. Web stack debugging #3
+* 0x18. Webstack monitoring
 * 0x1A. Application server
 * 0x1B. Web stack debugging #4
